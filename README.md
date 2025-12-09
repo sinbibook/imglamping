@@ -1,2 +1,2 @@
-# imglamping
+# template-full-banner-image
 
