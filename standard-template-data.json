@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2025-12-10T01:17:18.284Z",
+    "version": "1.5.0",
+    "generatedAt": "2025-12-10T06:19:57.699Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -203,21 +203,9 @@
             "isSelected": true
           }
         ]
-      },
-      {
-        "id": "f4c7f937-ff03-4acd-b552-20490ed36f74",
-        "name": "서비스",
-        "description": "아이엠 글램핑만의 특별한 서비스를 경험하세요 ! ",
-        "usageGuide": "- 객실 와이파이 무료 이용 가능\n- OTT 이용 가능(개인 계정 사용) ",
-        "displayOrder": 3,
-        "images": []
       }
     ],
     "refundPolicies": [
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
-      },
       {
         "refundProcessingDays": 8,
         "refundRate": 80
@@ -253,6 +241,10 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
       }
     ],
     "refundSettings": {
@@ -1645,7 +1637,7 @@
       }
     ],
     "seo": {
-      "title": "",
+      "title": "강화도 아이엠 글램핑",
       "description": "",
       "keywords": ""
     },
