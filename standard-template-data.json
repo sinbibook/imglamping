@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2025-12-10T06:20:25.497Z",
+    "version": "1.7.0",
+    "generatedAt": "2025-12-11T02:48:29.317Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -10,7 +10,7 @@
     "id": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "name": "강화 아이엠글램핑",
     "description": "",
-    "subtitle": "자연 속 캠핑 감성과 펜션의 편안함을 동시에 즐길 수 있는 공간, 아이엠 글램핑입니다.",
+    "subtitle": "자연 속 캠핑 감성과 펜션의 편안함을 동시에 즐길 수 있는 공간",
     "address": "인천 강화군 화도면 해안남로 2081 258-1, 258-2, 259, 246-2",
     "latitude": 0,
     "longitude": 0,
@@ -111,55 +111,61 @@
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-su61ie4f2mb.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-oezwgtu4agd.jpeg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-l1qfpdyudw.jpeg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-5e6invo49c.jpg",
-            "sortOrder": 0,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-psntsecuapr.jpeg",
-            "sortOrder": 6,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-u0z88laou8e.jpeg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-oezwgtu4agd.jpeg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-5e6invo49c.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-nylj8oa62om.jpeg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-b83icfoafoi.jpg",
             "sortOrder": 8,
             "description": "",
             "isSelected": true
           },
           {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-b83icfoafoi.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765421156374-o8nomq1gf2m.jpeg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-7tf1wlw1kj7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true
           }
@@ -173,32 +179,50 @@
         "displayOrder": 2,
         "images": [
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-yuzws1bnl5r.jpg",
-            "sortOrder": 1,
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-w7ytkqdd0uo.jpeg",
+            "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": false
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-w7ytkqdd0uo.jpeg",
-            "sortOrder": 0,
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-yuzws1bnl5r.jpg",
+            "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092074-glotc69dfcc.jpeg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092075-1bjc4ehe758.jpeg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092075-bm7bgqekl5.jpeg",
-            "sortOrder": 3,
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": false
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092075-1bjc4ehe758.jpeg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": false
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-cu90a7olc7g.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-6d5q16rhv1h.jpeg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-579beripx8c.jpeg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -402,7 +426,7 @@
         "commonArea": []
       }
     ],
-    "nameEn": "Ganghwa Im Glamping",
+    "nameEn": "Ganghwa IM Glamping",
     "domain": "imglamping.kr",
     "realtimeBookingId": "9960",
     "ybsId": ""
@@ -1648,7 +1672,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "강화 아이엠 글램핑",
                 "images": [
                   {
                     "id": "0c9af8ae-7ccd-49b1-bd83-7c6d998a2350",
@@ -1685,15 +1709,26 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "강화도의 아름다운 자연 속 아이엠 글램핑에서\n감성 캠핑여행을 즐겨보세요. "
               },
               "closing": {
-                "title": "",
-                "images": []
+                "title": "/ 강화 아이엠 글램핑 /",
+                "images": [
+                  {
+                    "id": "54e00b6e-4128-4297-9bf2-e807a1049dff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_closing/1765420169710-edmq24wlxd.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "/ 강화 아이엠 글램핑 /"
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "미리보기",
+                "images": [],
+                "description": "강화 아이엠 글램핑을 미리 만나보세요."
               },
               "gallery": {
                 "title": "",
@@ -1702,78 +1737,107 @@
                     "id": "2914e907-5127-4257-b379-487b93debf23",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272896-ut0peq24cz.jpeg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   },
                   {
                     "id": "91aff12d-3bc7-45fc-bb81-deb1e0c5970b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-fpilpl6ub2.jpeg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   },
                   {
                     "id": "ba5e1d2a-e09b-4b92-9402-4d1c926c7b17",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-208ty5yxx4lh.jpeg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   },
                   {
                     "id": "ccdac48c-03f4-4342-80e0-a507aeb2aa4e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-9maqf8i2hlv.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   },
                   {
                     "id": "695cd32c-364d-4ab9-bb1f-4e1fa0c3dc9d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272896-tas8ilwulpq.jpeg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   },
                   {
                     "id": "7f5d6f22-0243-4c84-b277-b453ad74f3ef",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-9ah9xazjw4k.jpeg",
                     "sortOrder": 5,
-                    "description": "",
+                    "description": "IM Glamping",
                     "isSelected": true
                   }
                 ]
               },
               "signature": {
-                "title": "",
+                "title": "Pension Highlights",
                 "images": [
                   {
-                    "id": "45a2b330-c656-47ca-940d-0bacf9a01766",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-kax9rkal8d9.jpeg",
+                    "id": "723fa5b9-2c9b-46c3-9c73-c206481d51e6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419941362-iwsw7no22t8.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "깔끔한 객실 내부 컨디션",
                     "isSelected": true
                   },
                   {
-                    "id": "b1314941-853a-4ef9-a902-4df2ece6d06f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-i94ry6l3msg.jpeg",
+                    "id": "2ddad86f-8caf-4735-a2da-eb01587ba31d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419897005-4iilna9no28.jpeg",
                     "sortOrder": 1,
+                    "description": "깔끔한 내부 컨디션",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "5bd12b83-882f-4b44-9287-1c4676baa70f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765417309423-0us1a99j2fsr.jpeg",
+                    "sortOrder": 2,
+                    "description": "아름다운 강화도의 낙조",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "fa948456-792a-45f3-9a96-231c2e36f694",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419897005-g4tqzgj1fk.jpeg",
+                    "sortOrder": 3,
                     "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "0e4538b9-ea95-4631-b25c-0143706d6911",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419716894-9nx7790k49j.jpeg",
+                    "sortOrder": 4,
+                    "description": "밤을 따뜻하게 밝혀줄 불멍",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "45a2b330-c656-47ca-940d-0bacf9a01766",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-kax9rkal8d9.jpeg",
+                    "sortOrder": 5,
+                    "description": "별이 쏟아지는 강화도의 밤하늘",
                     "isSelected": true
                   },
                   {
                     "id": "db5e0ce7-97bc-4b3b-951e-b9c9f3abda9b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-8mg50y232qi.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
-                    "id": "e77d50c6-9b51-4487-ae19-e590e8c631c3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-2hchtifclzu.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
+                    "id": "7d20d5e7-bcd5-4606-92d0-b9f92fbb7e3c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765417309423-t2uytky7p4r.jpeg",
+                    "sortOrder": 7,
+                    "description": "계절에 구애받지 않는 공용 미온수 수영장",
+                    "isSelected": false
                   }
-                ]
+                ],
+                "description": ""
               }
             }
           ]
@@ -1782,8 +1846,23 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "아이엠 글램핑으로 오시는 길",
+                "images": [
+                  {
+                    "id": "4d196fe9-a89b-41f0-bacd-012f308d7fde",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673752-2zs1vmvkmo5.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "fdcb884b-cf42-46d1-9bd9-249fc099aaa7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673753-rgiv3qia40e.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -1796,7 +1875,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "강화 아이엠 글램핑 — 바다와 낙조가 머무는 곳",
                 "images": [
                   {
                     "id": "6bfd98b2-af61-45ef-8bc1-9d7d9336922b",
@@ -1811,26 +1890,267 @@
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "f1750c62-27ed-4801-8162-d27a004fd9a3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-3fywh5qoc1.jpeg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "23bb618b-82b7-44e3-961e-9c8f1207d380",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-o9fvpp69vc.jpeg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "11fb5aa7-dd7c-438d-a7c7-00961c3d1b5c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-f14zyz40gtt.jpeg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "1211dff1-8b09-4665-8601-6fcf627b3d13",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-6oqggzgi7w.jpeg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "42ae9f42-1fcf-40bc-a66d-521051713a7c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-e1d8c93c4lf.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "8cc20af2-5705-49e4-9c50-1a220856b2aa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420521334-khl4741zxma.jpeg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": "깔끔한 컨디션의 글램핑에서 멀리 펼쳐진 강화 바다와 붉게 물드는 낙조를 바라보며 쉬어가세요.\n각 텐트마다 개별 바베큐가 가능해 프라이빗한 시간을 즐길 수 있고, \n미온수 공용수영장에서 계절과 상관없이 여유로운 물놀이도 경험할 수 있습니다.\n조용히 머물고 싶은 날, 자연과 편안함이 균형 있게 준비된 곳입니다."
               },
-              "about": []
+              "about": [
+                {
+                  "title": "Ganghwa IM Glamping",
+                  "images": [
+                    {
+                      "id": "76dd8ac8-b4e9-4d66-befb-b62ef37b24de",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_about/1765420630986-f7cd575vk48.jpeg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304"
+                    },
+                    {
+                      "id": "e21de215-6fc0-4700-ab2f-c4ef9a2a0526",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_about/1765420630987-654652fo0qx.jpeg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304"
+                    }
+                  ],
+                  "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304",
+                  "description": "자연 속 캠핑 감성과 펜션의 편안함을 동시에 즐길 수 있는 공간"
+                }
+              ]
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [
+          {
+            "id": "bc22b4e0-6c9e-485a-8816-36c3392fa141",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "b933c1d6-89df-4812-8954-0257c90045b3",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "a73873ad-efd4-4419-a6d7-60e5a5e38649",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "1d481449-3d30-4b63-b786-8a54aba97181",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "bf541fca-f343-40ee-93b9-d62f64fad3a3",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "c2f258f1-78b5-4008-86cb-cfad89749698",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 침대룸(침대2개)+거실+주방+화장실+개별바베큐",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [
+          {
+            "id": "53049404-6d9d-4465-9b17-a593a06d5808",
+            "sections": [
+              {
+                "hero": {
+                  "title": "객실 앞 바베큐존에서 개별 바베큐를 즐겨보세요.",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "f83bfd58-f702-4c9b-af9d-154200ac8abf",
+            "sections": [
+              {
+                "hero": {
+                  "title": "계절과 상관없이 즐기는 여유로운 물놀이",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "3b20196e-734e-4188-b1ed-eb7182c22030",
+            "sections": [
+              {
+                "hero": {
+                  "title": "고요한 밤공기 속에서 타오르는 불빛",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "28d9315c-7dc7-4c45-9117-5b86805dbdd3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_hero/1765420997376-slfmhbq7oll.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "314e3517-8069-4a20-b262-385d41affc8f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_hero/1765420997377-71ps5lzd4h.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d9bc64ce-45ce-4192-bc8c-ec424c77b801",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_hero/1765420997377-41vy86kkmax.jpeg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": "예약정보",
                 "images": [],
-                "description": ""
+                "description": "예약 전 꼭 읽어주세요!"
               }
             }
           ]
