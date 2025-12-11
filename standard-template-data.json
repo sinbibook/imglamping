@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-12-11T02:48:29.317Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-12-11T02:54:46.515Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -1731,7 +1731,7 @@
                 "description": "강화 아이엠 글램핑을 미리 만나보세요."
               },
               "gallery": {
-                "title": "",
+                "title": "Gallery",
                 "images": [
                   {
                     "id": "2914e907-5127-4257-b379-487b93debf23",
@@ -1775,7 +1775,8 @@
                     "description": "IM Glamping",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "/ Ganghwa IM Glamping /"
               },
               "signature": {
                 "title": "Pension Highlights",
@@ -2070,9 +2071,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -2090,9 +2091,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -2110,9 +2111,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
