@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2025-12-11T03:00:07.044Z",
+    "version": "1.10.0",
+    "generatedAt": "2025-12-11T03:04:05.878Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -73,31 +73,31 @@
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/53049404-6d9d-4465-9b17-a593a06d5808/main/1765192653507-tn0ztphca2o.jpeg",
             "sortOrder": 4,
-            "description": "",
+            "description": "Barbeque",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/53049404-6d9d-4465-9b17-a593a06d5808/main/1765192653506-3lnmpxo4j2w.jpg",
             "sortOrder": 1,
-            "description": "",
+            "description": "Barbeque",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/53049404-6d9d-4465-9b17-a593a06d5808/main/1765192653505-mznqiyttxrc.jpeg",
             "sortOrder": 0,
-            "description": "",
+            "description": "Barbeque",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/53049404-6d9d-4465-9b17-a593a06d5808/main/1765192653507-eu7wchvwllu.jpg",
             "sortOrder": 3,
-            "description": "",
+            "description": "Barbeque",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/53049404-6d9d-4465-9b17-a593a06d5808/main/1765192653506-4nq9waqwie5.jpg",
             "sortOrder": 2,
-            "description": "",
+            "description": "Barbeque",
             "isSelected": true
           }
         ]
@@ -111,62 +111,62 @@
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-su61ie4f2mb.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-l1qfpdyudw.jpeg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "sortOrder": 6,
+            "description": "Swimming Pool",
+            "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-psntsecuapr.jpeg",
             "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-u0z88laou8e.jpeg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-oezwgtu4agd.jpeg",
-            "sortOrder": 4,
-            "description": "",
+            "description": "Swimming Pool",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-5e6invo49c.jpg",
             "sortOrder": 1,
-            "description": "",
+            "description": "Swimming Pool",
             "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-u0z88laou8e.jpeg",
+            "sortOrder": 3,
+            "description": "Swimming Pool",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-l1qfpdyudw.jpeg",
+            "sortOrder": 4,
+            "description": "Swimming Pool",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-oezwgtu4agd.jpeg",
+            "sortOrder": 5,
+            "description": "Swimming Pool",
+            "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-nylj8oa62om.jpeg",
             "sortOrder": 8,
-            "description": "",
+            "description": "Swimming Pool",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655542-b83icfoafoi.jpg",
             "sortOrder": 9,
-            "description": "",
+            "description": "Swimming Pool",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765421156374-o8nomq1gf2m.jpeg",
             "sortOrder": 0,
-            "description": "",
+            "description": "Swimming Pool",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f83bfd58-f702-4c9b-af9d-154200ac8abf/main/1765192655540-7tf1wlw1kj7.jpg",
-            "sortOrder": 6,
-            "description": "",
+            "sortOrder": 2,
+            "description": "Swimming Pool",
             "isSelected": true
           }
         ]
@@ -181,49 +181,49 @@
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-w7ytkqdd0uo.jpeg",
             "sortOrder": 3,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328091988-yuzws1bnl5r.jpg",
             "sortOrder": 4,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092074-glotc69dfcc.jpeg",
             "sortOrder": 5,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092075-bm7bgqekl5.jpeg",
             "sortOrder": 6,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765328092075-1bjc4ehe758.jpeg",
             "sortOrder": 7,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": false
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-cu90a7olc7g.jpeg",
             "sortOrder": 1,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-6d5q16rhv1h.jpeg",
             "sortOrder": 2,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3b20196e-734e-4188-b1ed-eb7182c22030/main/1765421158643-579beripx8c.jpeg",
             "sortOrder": 0,
-            "description": "",
+            "description": "Camp Fire",
             "isSelected": true
           }
         ]
@@ -272,7 +272,7 @@
       }
     ],
     "refundSettings": {
-      "customerRefundNotice": "",
+      "customerRefundNotice": "[펜션 공지 사항]\n - 전 객실 금연입니다.\n- 예약 인원에서 인원이 추가되는 경우 펜션에 미리 연락을 주시기 바랍니다.\n- 펜션 내, 펜션 인근에서의 폭죽 사용은 불가합니다.",
       "immediateRefundEnabled": false,
       "immediateRefundTimeLimit": "60"
     },
