@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2025-12-12T01:18:26.379Z",
+    "version": "1.13.0",
+    "generatedAt": "2025-12-15T03:36:40.296Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -438,7 +438,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 15,
+      "size": 49,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -621,7 +621,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 15,
+      "size": 49,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -832,7 +832,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 15,
+      "size": 49,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1043,7 +1043,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 15,
+      "size": 49,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1240,7 +1240,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 18,
+      "size": 59,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1438,7 +1438,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 18,
+      "size": 59,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
