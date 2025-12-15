@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2025-12-15T03:36:40.296Z",
+    "version": "1.14.0",
+    "generatedAt": "2025-12-15T06:26:20.616Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -11,9 +11,9 @@
     "name": "강화 아이엠글램핑",
     "description": "",
     "subtitle": "자연 속 캠핑 감성과 펜션의 편안함을 동시에 즐길 수 있는 공간",
-    "address": "인천 강화군 화도면 해안남로 2081 258-1, 258-2, 259, 246-2",
-    "latitude": 0,
-    "longitude": 0,
+    "address": "인천 강화군 화도면 해안남로 2081",
+    "latitude": 37.6004733135596,
+    "longitude": 126.403981246683,
     "contactPhone": "010-4399-3469",
     "contactEmail": "soony2000@naver.com",
     "checkin": "15:00:00",
@@ -231,18 +231,6 @@
     ],
     "refundPolicies": [
       {
-        "refundProcessingDays": 8,
-        "refundRate": 80
-      },
-      {
-        "refundProcessingDays": 7,
-        "refundRate": 70
-      },
-      {
-        "refundProcessingDays": 6,
-        "refundRate": 60
-      },
-      {
         "refundProcessingDays": 5,
         "refundRate": 50
       },
@@ -269,6 +257,18 @@
       {
         "refundProcessingDays": 9,
         "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
       }
     ],
     "refundSettings": {
