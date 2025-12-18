@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2025-12-18T05:24:44.759Z",
+    "version": "1.19.0",
+    "generatedAt": "2025-12-18T06:44:23.069Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -1747,6 +1747,20 @@
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "0f080eb9-a276-4b1a-a3da-0109a3e28dda",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_hero/1766040157533-x9l3xtvdghg.jpeg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "27b61d94-f2c8-4a50-add2-e20b8b6cd051",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_hero/1766040157534-29vii2mw49l.jpeg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
                   }
                 ],
                 "description": "강화도의 아름다운 자연 속 아이엠 글램핑에서\n감성 캠핑여행을 즐겨보세요. "
@@ -1811,6 +1825,27 @@
                     "id": "7f5d6f22-0243-4c84-b277-b453ad74f3ef",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-9ah9xazjw4k.jpeg",
                     "sortOrder": 5,
+                    "description": "IM Glamping",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e531a3b7-39f3-4b3c-ad7b-dde29d25faae",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-azqh73oji7i.jpeg",
+                    "sortOrder": 6,
+                    "description": "IM Glamping",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7698f741-82a7-4bd0-a55c-a2b736048029",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-l876t4z2rhl.jpg",
+                    "sortOrder": 7,
+                    "description": "IM Glamping",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d12042f2-b551-4030-85f3-5e1e2d21f601",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-637xmpqs91p.jpeg",
+                    "sortOrder": 8,
                     "description": "IM Glamping",
                     "isSelected": true
                   }
@@ -1889,16 +1924,23 @@
                 "title": "오시는 길",
                 "images": [
                   {
+                    "id": "9b241b01-25aa-4c7b-b09d-3a86b32bdf5c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1766040247052-8a0cm8rnswr.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "4d196fe9-a89b-41f0-bacd-012f308d7fde",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673752-2zs1vmvkmo5.jpeg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fdcb884b-cf42-46d1-9bd9-249fc099aaa7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673753-rgiv3qia40e.jpeg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
@@ -1946,30 +1988,37 @@
                     "isSelected": true
                   },
                   {
+                    "id": "f9d9acaa-8653-45ec-b8f0-6907c35254d0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1766040157534-xzz0di5xu9.jpeg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "11fb5aa7-dd7c-438d-a7c7-00961c3d1b5c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-f14zyz40gtt.jpeg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "1211dff1-8b09-4665-8601-6fcf627b3d13",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-6oqggzgi7w.jpeg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "42ae9f42-1fcf-40bc-a66d-521051713a7c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420495191-e1d8c93c4lf.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "8cc20af2-5705-49e4-9c50-1a220856b2aa",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_hero/1765420521334-khl4741zxma.jpeg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true
                   }
@@ -2170,9 +2219,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -2202,6 +2251,13 @@
                     "id": "d9bc64ce-45ce-4192-bc8c-ec424c77b801",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_hero/1765420997377-41vy86kkmax.jpeg",
                     "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "135c62b3-a42f-4ec2-9385-b981997c25c1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_hero/1766040247052-jke928sg9j.jpeg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
