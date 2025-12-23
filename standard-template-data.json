@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2025-12-23T03:09:24.638Z",
+    "version": "1.24.0",
+    "generatedAt": "2025-12-23T07:39:15.199Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -270,6 +270,22 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
         "refundProcessingDays": 5,
         "refundRate": 50
       },
@@ -292,22 +308,6 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
-      },
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
-      },
-      {
-        "refundProcessingDays": 8,
-        "refundRate": 80
-      },
-      {
-        "refundProcessingDays": 7,
-        "refundRate": 70
-      },
-      {
-        "refundProcessingDays": 6,
-        "refundRate": 60
       }
     ],
     "refundSettings": {
@@ -1954,25 +1954,32 @@
                 "title": "오시는 길",
                 "images": [
                   {
+                    "id": "1241e877-c25b-412a-b489-30992d27410d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1766475203085-k75rpxwqo8h.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "9b241b01-25aa-4c7b-b09d-3a86b32bdf5c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1766040247052-8a0cm8rnswr.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "4d196fe9-a89b-41f0-bacd-012f308d7fde",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673752-2zs1vmvkmo5.jpeg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fdcb884b-cf42-46d1-9bd9-249fc099aaa7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/directions_hero/1765420673753-rgiv3qia40e.jpeg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   }
                 ]
               },
