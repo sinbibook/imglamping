@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-01-02T01:38:42.847Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-01-02T08:01:41.485Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2308,6 +2308,39 @@
             }
           ]
         }
+      },
+      "popup": {
+        "popups": [
+          {
+            "id": "19764876-4b5e-4039-9d33-3ef0308fb9a7",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "02ebbf32-0851-439a-8833-e175e77ae158",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/popup/1767340785120-1vhaegubpjw.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "19764876-4b5e-4039-9d33-3ef0308fb9a7"
+              },
+              {
+                "id": "7ff18f72-d09c-4096-b964-83a65e163bd4",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/popup/1767340870037-o5gm79yscs8.jpg",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "19764876-4b5e-4039-9d33-3ef0308fb9a7"
+              }
+            ],
+            "slider": true,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       }
     }
   }
