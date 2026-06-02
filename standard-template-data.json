@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.39.0",
-    "generatedAt": "2026-05-18T04:54:53.354127418Z",
+    "version": "1.40.0",
+    "generatedAt": "2026-06-02T05:13:03.450782249Z",
     "templateType": "gallery_sidebar",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -1991,7 +1991,7 @@
   ],
   "homepage": {
     "domain": "imglamping.kr",
-    "templateType": "gallery_sidebar",
+    "templateType": "fullpage_mood",
     "images": [
       {
         "logo": [ ]
@@ -2115,10 +2115,10 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "강화도의 아름다운 자연 속 아이엠 글램핑에서\n감성 캠핑여행을 즐겨보세요. "
+                "description": "Enjoy A Cozy Glamping Escape Surrounded By The Beautiful Nature Of Ganghwa."
               },
               "closing": {
-                "title": "/ 아이엠 글램핑 /",
+                "title": "IM Glamping",
                 "images": [
                   {
                     "id": "54e00b6e-4128-4297-9bf2-e807a1049dff",
@@ -2134,11 +2134,36 @@
                 "description": "/ 아이엠 글램핑 /"
               },
               "essence": {
-                "title": "미리보기",
-                "images": [ ],
+                "title": "강화도의 자연 속에서 즐기는 프리미엄 감성 글램핑, 아이엠 글램핑 깔끔하고 쾌적한 객실로 캠핑의 낭만과 편안한 휴식을 동시에 누려보세요. 호텔처럼 세심하게 관리된 공간에서 누구나 부담 없이 머물 수 있습니다. 저녁에는 따뜻한 불멍과 함께 강화도의 여유로운 밤을 만끽해보세요. 자연과 감성, 휴식이 어우러진 특별한 글램핑 공간입니다. ✨🌿🔥",
+                "images": [
+                  {
+                    "id": "24cbc3fa-5513-4b26-8ee9-4457d5ad6427",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1780372988845-2c8cxuw7yt.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "7ed2301f-9760-4848-b413-fe57e8c4d7dc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1780372988842-malb4cz2d0.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b52a827b-bc57-4ebd-9ba9-9fc644dd24d9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1780372988848-6b2hdpn1iv.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "아이엠 글램핑을 미리 만나보세요."
+                "description": "A Peaceful Glamping Stay In The Heart Of Nature ✨"
               },
               "gallery": {
                 "title": "Gallery",
@@ -2236,7 +2261,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419897005-4iilna9no28.jpeg",
                     "sortOrder": 1,
                     "description": "깔끔한 내부 컨디션",
-                    "isSelected": false,
+                    "isSelected": true,
                     "blockId": null
                   },
                   {
@@ -2252,7 +2277,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765419897005-g4tqzgj1fk.jpeg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": false,
+                    "isSelected": true,
                     "blockId": null
                   },
                   {
@@ -2276,15 +2301,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765327272897-8mg50y232qi.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": false,
-                    "blockId": null
-                  },
-                  {
-                    "id": "7d20d5e7-bcd5-4606-92d0-b9f92fbb7e3c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_signature/1765417309423-t2uytky7p4r.jpeg",
-                    "sortOrder": 7,
-                    "description": "계절에 구애받지 않는 공용 미온수 수영장",
-                    "isSelected": false,
+                    "isSelected": true,
                     "blockId": null
                   }
                 ],
@@ -2439,6 +2456,22 @@
                       "id": "e21de215-6fc0-4700-ab2f-c4ef9a2a0526",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_about/1765420630987-654652fo0qx.jpeg",
                       "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304"
+                    },
+                    {
+                      "id": "4afab895-547c-4cf1-97e9-39934dbc1318",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_about/1780377050233-4dgg2gkesn.jpeg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304"
+                    },
+                    {
+                      "id": "0b9c4911-949d-498d-9180-4a87117deb64",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/main_about/1780377050264-hi4tahasz4.jpg",
+                      "sortOrder": 3,
                       "description": "",
                       "isSelected": true,
                       "blockId": "12fb308c-18bb-41d6-b9c2-4452dca47304"
@@ -2667,7 +2700,40 @@
               },
               "about": {
                 "title": "예약정보",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "cbc5ca5f-966b-41c8-962a-05a9caf63aaf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_about/1780377176272-ofwk7kr1ua.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "7ee430fb-608c-460f-b9f3-e873a5a32a58",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_about/1780377176257-mhlug1n66j.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "7a2679ed-077c-4376-8c8f-b12069f1c87c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_about/1780377176230-oyqgbxnd58.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "85a0bfd5-40a6-454c-b66b-4d342224b576",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/reservation_about/1780377176262-a7fm9itesw.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": "예약 전 꼭 읽어주세요!"
               }
             }
