@@ -1,30 +1,20 @@
-/* Theme CSS - 테마 변수 정의 (폰트, 색상) */
-/* 배포 시 이 파일만 덮어쓰면 됨 */
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
 
-/* 폰트 정의 */
+/* Font Faces */
 @font-face {
-    font-family: 'Chosunilbo';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Continuous';
-    src: url('../fonts/continuous.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');
+    font-weight: 400;
     font-display: swap;
 }
 
-/* 테마 변수 */
+/* CSS Variables */
 :root {
-    /* 폰트 */
-    --font-ko-main: 'Chosunilbo', serif;
-    --font-ko-sub: 'Chosunilbo', serif;
-    --font-en-main: 'Continuous', serif;
-
-    /* 색상 */
-    --color-primary: #fff8ef;
-    --color-secondary: #6c5f51;
+  --font-ko-main: 'Noto Serif KR', serif;
+  --font-ko-sub: 'Pretendard', sans-serif;
+  --font-en-main: 'Italiana', serif;
+  --color-primary: #000000;
+  --color-secondary: #000000;
 }
