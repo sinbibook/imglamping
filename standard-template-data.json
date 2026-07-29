@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-07-29T05:49:09.548841866Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-07-29T05:49:48.451736021Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2366,7 +2366,7 @@
                     {
                       "id": "ba2c0c74-82ce-41ee-847a-cb9e5a407528",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_about/1785304146162-yrlfxsorbu.jpg",
-                      "sortOrder": 1,
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "9dc1fef1-8ae7-4537-bd19-e0567494024a"
@@ -2374,6 +2374,21 @@
                   ],
                   "blockId": "9dc1fef1-8ae7-4537-bd19-e0567494024a",
                   "description": ""
+                },
+                {
+                  "title": "동막해변",
+                  "images": [
+                    {
+                      "id": "ab2298eb-4578-4faf-957a-e26b52d0d3d5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_about/1785304186042-dkpu7ic4ym.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "7aaed19c-b1e4-462d-ab70-47ca1147c4cd"
+                    }
+                  ],
+                  "blockId": "7aaed19c-b1e4-462d-ab70-47ca1147c4cd",
+                  "description": "동막해변은 세계 5대 갯벌 중 하나로 꼽힐 만큼 갯벌 체험을 하기에 좋은 곳이다. 백사장과 울창한 소나무 숲으로 둘러싸여 천혜의 자연경관을 자랑하고 있다."
                 }
               ]
             }
