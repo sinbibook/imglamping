@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.55.0",
-    "generatedAt": "2026-07-29T05:51:23.747946203Z",
+    "version": "1.56.0",
+    "generatedAt": "2026-07-29T05:52:56.460681751Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2356,7 +2356,16 @@
             {
               "hero": {
                 "title": "TRAVEL",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "c5da9a65-890d-426f-a7c0-1af83e26b183",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_hero/1785304373565-lmy6n7t66i.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": [
