@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-07-29T05:50:09.447950081Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-07-29T05:51:23.747946203Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2389,6 +2389,36 @@
                   ],
                   "blockId": "7aaed19c-b1e4-462d-ab70-47ca1147c4cd",
                   "description": "동막해변은 세계 5대 갯벌 중 하나로 꼽힐 만큼 갯벌 체험을 하기에 좋은 곳이다. 백사장과 울창한 소나무 숲으로 둘러싸여 천혜의 자연경관을 자랑하고 있다."
+                },
+                {
+                  "title": "강화 전등사",
+                  "images": [
+                    {
+                      "id": "6495b6a3-59cd-4200-81e3-2783494aeaaa",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_about/1785304280620-3f7colanb8.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "9d648ede-e8ce-4d20-b98e-6b478d472834"
+                    }
+                  ],
+                  "blockId": "9d648ede-e8ce-4d20-b98e-6b478d472834",
+                  "description": "전등사는 현존하는 한국 사찰 중 가장 오랜 역사를 가졌으며, 부처님의 가피로 나라를 지킨 호국불교 근본도량으로 역사와 권위를 간직한 사찰이다."
+                },
+                {
+                  "title": "강화루지",
+                  "images": [
+                    {
+                      "id": "a6e00888-ec23-4701-84fb-1e56801d4d3d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_about/1785304280619-vcez0r750w.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "78222cc0-d5e5-44b7-b274-974c03a63552"
+                    }
+                  ],
+                  "blockId": "78222cc0-d5e5-44b7-b274-974c03a63552",
+                  "description": "강화루지는 특별한 동력장치 없이 특수 제작된 카트를 타고 땅의 경사와 중력만을 이용해 트랙을 내려오는 다이내믹한 체험 레포츠 시설이다."
                 }
               ]
             }
