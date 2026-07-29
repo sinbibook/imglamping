@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.56.0",
-    "generatedAt": "2026-07-29T05:52:56.460681751Z",
+    "version": "1.57.0",
+    "generatedAt": "2026-07-29T05:53:29.580441952Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2429,7 +2429,8 @@
                   "blockId": "78222cc0-d5e5-44b7-b274-974c03a63552",
                   "description": "강화루지는 특별한 동력장치 없이 특수 제작된 카트를 타고 땅의 경사와 중력만을 이용해 트랙을 내려오는 다이내믹한 체험 레포츠 시설이다."
                 }
-              ]
+              ],
+              "enabled": true
             }
           ]
         },
