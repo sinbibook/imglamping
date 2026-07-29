@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.49.0",
-    "generatedAt": "2026-07-29T04:01:56.231893468Z",
+    "version": "1.50.0",
+    "generatedAt": "2026-07-29T04:56:01.432230023Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2583,7 +2583,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Ganghwa Aiem Glamping"
+        "nameEn": "Aiem Glamping"
       },
       "roomtypes": [
         {
