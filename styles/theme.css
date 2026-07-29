@@ -12,9 +12,12 @@
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'Noto Serif KR', serif;
-  --font-ko-sub: 'Pretendard', sans-serif;
-  --font-en-main: 'Italiana', serif;
-  --color-primary: #000000;
-  --color-secondary: #000000;
+    /* 폰트 (admin 변경 가능) */
+    --font-ko-main: 'Noto Serif KR', serif;
+    --font-ko-sub: 'Pretendard', sans-serif;
+    --font-en-main: 'Italiana', serif;
+
+    /* 색상 (admin 변경 가능) */
+    --color-primary: #ecebe8;
+    --color-secondary: #F1927B; 
 }
