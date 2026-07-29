@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.51.0",
-    "generatedAt": "2026-07-29T04:57:50.262194813Z",
+    "version": "1.52.0",
+    "generatedAt": "2026-07-29T05:49:09.548841866Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2352,7 +2352,32 @@
           ]
         },
         "nearbyAttractions": {
-          "sections": [ ]
+          "sections": [
+            {
+              "hero": {
+                "title": "TRAVEL",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "ba2c0c74-82ce-41ee-847a-cb9e5a407528",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/nearby_attractions_about/1785304146162-yrlfxsorbu.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "9dc1fef1-8ae7-4537-bd19-e0567494024a"
+                    }
+                  ],
+                  "blockId": "9dc1fef1-8ae7-4537-bd19-e0567494024a",
+                  "description": ""
+                }
+              ]
+            }
+          ]
         },
         "layoutMap": {
           "sections": [ ]
