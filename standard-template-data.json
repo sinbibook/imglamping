@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.53.0",
-    "generatedAt": "2026-07-29T05:49:48.451736021Z",
+    "version": "1.54.0",
+    "generatedAt": "2026-07-29T05:50:09.447950081Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2361,7 +2361,7 @@
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "강화 참성단",
                   "images": [
                     {
                       "id": "ba2c0c74-82ce-41ee-847a-cb9e5a407528",
@@ -2373,7 +2373,7 @@
                     }
                   ],
                   "blockId": "9dc1fef1-8ae7-4537-bd19-e0567494024a",
-                  "description": ""
+                  "description": "참성단은 단군이 하늘에 제사를 올리던 제단이라고 전한다. 화도면 마니산 정상에 위치하며 정확한 축조 시기는 알 수 없지만, 고려사 기록을 통해 참성단이 13세기 이전에 축조되었음을 알 수 있다. "
                 },
                 {
                   "title": "동막해변",
