@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.62.0",
-    "generatedAt": "2026-09-11T11:18:15.846625055Z",
+    "version": "1.63.0",
+    "generatedAt": "2026-09-11T11:31:33.317630610Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -2577,7 +2577,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "I AM Glamping"
+        "nameEn": "ImGlamping"
       },
       "roomtypes": [
         {
