@@ -121,39 +121,44 @@ class RoomMapper extends BaseDataMapper {
 
     /**
      * 객실 이미지 매핑
-     * roomtype_interior → [data-room-images] feature(0번째) + thumbs(1~4번째)
+     * roomtype_interior 1~4번째(index 0~3) → [data-room-images] thumbs
+     * feature는 썸네일을 크게 보여주는 슬라이더 화면이므로 첫 썸네일과 동일한 이미지로 초기화
+     * (이후 교체는 js/pages/room.js의 initRoomInfoFeatureSlider가 담당)
      */
     mapRoomImages() {
         const room = this.getCurrentRoom();
         if (!room) return;
 
         const images = this.getRoomImages(room, 'roomtype_interior');
-        // room info는 5번째(index 4) 이미지부터 시작
-        const OFFSET = 4;
-        const getUrl = (i) => images[OFFSET + i]?.url || null;
+        const getUrl = (i) => images[i]?.url || null;
 
-        // feature 이미지 (5번째, index 4)
+        // thumb 이미지 (1~4번째, index 0~3)
+        const thumbContainer = this.safeSelect('.room-info-thumbs[data-room-images]');
+        if (thumbContainer) {
+            const thumbImgs = thumbContainer.querySelectorAll('img.room-info-thumb');
+            thumbImgs.forEach((img, i) => {
+                const url = getUrl(i);
+                img.src = url || ImageHelpers.EMPTY_IMAGE_WITH_ICON;
+                img.alt = this.sanitizeText(images[i]?.description, this.getRoomName(room));
+                img.classList.toggle('empty-image-placeholder', !url);
+            });
+        }
+
+        // feature 이미지 = 첫 번째 썸네일 (index 0)
         const featureContainer = this.safeSelect('.room-info-feature[data-room-images]');
         if (featureContainer) {
             const img = featureContainer.querySelector('img');
             if (img) {
                 const url = getUrl(0);
                 img.src = url || ImageHelpers.EMPTY_IMAGE_WITH_ICON;
-                img.alt = this.sanitizeText(images[OFFSET]?.description, this.getRoomName(room));
+                img.alt = this.sanitizeText(images[0]?.description, this.getRoomName(room));
                 img.classList.toggle('empty-image-placeholder', !url);
             }
         }
 
-        // thumb 이미지 (6~9번째, index 5~8)
-        const thumbContainer = this.safeSelect('.room-info-thumbs[data-room-images]');
-        if (thumbContainer) {
-            const thumbImgs = thumbContainer.querySelectorAll('img.room-info-thumb');
-            thumbImgs.forEach((img, i) => {
-                const url = getUrl(i + 1);
-                img.src = url || ImageHelpers.EMPTY_IMAGE_WITH_ICON;
-                img.alt = this.sanitizeText(images[OFFSET + i + 1]?.description, this.getRoomName(room));
-                img.classList.toggle('empty-image-placeholder', !url);
-            });
+        // 매핑된 src 기준으로 슬라이더 재초기화
+        if (typeof window.initRoomInfoFeatureSlider === 'function') {
+            window.initRoomInfoFeatureSlider();
         }
     }
 
@@ -342,6 +347,11 @@ class RoomMapper extends BaseDataMapper {
 
         appendBlock(false);  // 원본 블록
         appendBlock(true);   // 복제 블록 (끊김 없는 루프)
+
+        const blockCardCount = repeat * sortedRooms.length;
+        const SCROLL_SPEED_PX_PER_SEC = 1900 / 35;
+        const duration = Math.round((blockCardCount * cardSlot) / SCROLL_SPEED_PX_PER_SEC);
+        track.style.setProperty('--room-scroll-duration', `${duration}s`);
     }
 }
 
