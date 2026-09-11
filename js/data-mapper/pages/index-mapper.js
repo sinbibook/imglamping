@@ -289,6 +289,11 @@ class IndexMapper extends BaseDataMapper {
 
         appendBlock(false);  // 원본 블록
         appendBlock(true);   // 복제 블록 (끊김 없는 루프)
+
+        const blockCardCount = repeat * sortedRooms.length;
+        const SCROLL_SPEED_PX_PER_SEC = 1900 / 35;
+        const duration = Math.round((blockCardCount * cardSlot) / SCROLL_SPEED_PX_PER_SEC);
+        track.style.setProperty('--room-scroll-duration', `${duration}s`);
     }
 
     // ============================================================================

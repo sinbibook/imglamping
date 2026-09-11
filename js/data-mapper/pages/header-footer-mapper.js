@@ -454,6 +454,95 @@ class HeaderFooterMapper extends BaseDataMapper {
     // 🔄 TEMPLATE METHODS IMPLEMENTATION
     // ============================================================================
 
+    // ============================================================================
+    // 🖼️ NAVIGATION PANEL IMAGE
+    // ============================================================================
+
+    /**
+     * 현재 페이지 키 반환 (homepage.customFields.pages.* 키와 동일)
+     */
+    _getCurrentPageKey() {
+        const path = window.location.pathname;
+
+        if (path.endsWith('/main.html')) return 'main';
+        if (path.endsWith('/room.html')) return 'room';
+        if (path.endsWith('/facility.html')) return 'facility';
+        if (path.endsWith('/reservation.html')) return 'reservation';
+        if (path.endsWith('/directions.html')) return 'directions';
+        if (path.endsWith('/nearby-attractions.html')) return 'nearbyAttractions';
+        if (path.endsWith('/layout-map.html')) return 'layoutMap';
+
+        return 'index';
+    }
+
+    /**
+     * 선택된 이미지 배열 반환 (sortOrder 정렬)
+     */
+    _getSelectedImages(images) {
+        if (window.ImageHelpers?.getSelectedImages) {
+            return ImageHelpers.getSelectedImages(images || []);
+        }
+        return (images || [])
+            .filter(img => img && img.isSelected !== false && img.url)
+            .sort((a, b) => (a.sortOrder || 0) - (b.sortOrder || 0));
+    }
+
+    /**
+     * 현재 페이지 Hero 영역의 첫 번째 이미지 URL 반환
+     * - room / facility: URL의 id 파라미터 기준 (없으면 첫 번째 항목)
+     * - 그 외: homepage.customFields.pages.{page}.sections.0.hero.images
+     */
+    _getPageHeroImageUrl() {
+        const page = this._getCurrentPageKey();
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // 객실 페이지: 각 객실의 roomtype_interior 첫 번째 이미지 (room hero와 동일 소스)
+        if (page === 'room') {
+            const rooms = this.data?.rooms || [];
+            if (rooms.length === 0) return null;
+
+            const roomId = urlParams.get('id');
+            const room = roomId ? rooms.find(r => String(r.id) === String(roomId)) : rooms[0];
+            if (!room) return null;
+
+            return this.getRoomImages(room, 'roomtype_interior')[0]?.url || null;
+        }
+
+        // 부대시설 페이지: 각 시설의 첫 번째 이미지 (facility hero와 동일 소스)
+        if (page === 'facility') {
+            const facilities = this.data?.property?.facilities || [];
+            if (facilities.length === 0) return null;
+
+            const facilityId = urlParams.get('id');
+            const facility = facilityId
+                ? facilities.find(f => String(f.id) === String(facilityId))
+                : [...facilities].sort((a, b) => (a.displayOrder || 0) - (b.displayOrder || 0))[0];
+            if (!facility) return null;
+
+            return this._getSelectedImages(facility.images)[0]?.url || null;
+        }
+
+        const hero = this.safeGet(this.data, `homepage.customFields.pages.${page}.sections.0.hero`);
+        return this._getSelectedImages(hero?.images)[0]?.url || null;
+    }
+
+    /**
+     * 메뉴 패널 배경 이미지 매핑 ([data-nav-image])
+     * 현재 페이지 Hero 영역의 첫 번째 이미지를 사용
+     */
+    mapNavigationImage() {
+        const navImage = this.safeSelect('[data-nav-image]');
+        if (!navImage) return;
+
+        const url = this._getPageHeroImageUrl();
+        const fallback = window.ImageHelpers?.EMPTY_IMAGE_WITH_ICON || '';
+
+        navImage.onerror = () => {};
+        navImage.src = url || fallback;
+        navImage.alt = url ? this.getPropertyName() : '';
+        navImage.classList.toggle('empty-image-placeholder', !url);
+    }
+
     /**
      * Header 전체 매핑 실행
      */
@@ -468,6 +557,7 @@ class HeaderFooterMapper extends BaseDataMapper {
         // Header 매핑
         this.mapHeaderLogo();
         this.mapHeaderNavigation();
+        this.mapNavigationImage();
 
     }
 
