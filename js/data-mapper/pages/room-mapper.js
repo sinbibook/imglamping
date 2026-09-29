@@ -23,8 +23,10 @@ class RoomMapper extends BaseDataMapper {
 
             this.mapHeroSection();
             this.mapRoomName();
+            this.mapRoomTabs();
             this.mapRoomImages();
             this.mapRoomDetails();
+            this.mapFloorplan();
             this.mapConceptImages();
             this.mapRoomCards();
             this.reinitializeSliders();
@@ -113,6 +115,55 @@ class RoomMapper extends BaseDataMapper {
         this.safeSelectAll('[data-room-name]').forEach(el => {
             el.textContent = this.getRoomName(room);
         });
+    }
+
+    // ============================================================================
+    // 🔀 ROOM GROUP TABS
+    // ============================================================================
+
+    /**
+     * 객실 그룹 탭 매핑
+     * 현재 객실이 groupName으로 묶인 그룹(멤버 2개 이상)에 속할 때만
+     * 그룹 내 객실들을 탭으로 펼쳐서 보여준다. (헤더 메뉴는 그룹명 하나로 접혀서
+     * 그룹의 첫 객실로만 연결되므로, 두 번째 객실부터는 이 탭이 유일한 진입 경로)
+     * 그룹이 없거나 멤버가 1개뿐이면(펼칠 의미가 없으므로) 탭 자체를 숨긴다.
+     */
+    mapRoomTabs() {
+        const room = this.getCurrentRoom();
+        const container = this.safeSelect('[data-room-group-tabs]');
+        if (!container) return;
+
+        container.innerHTML = '';
+        container.style.display = 'none';
+        if (!room) return;
+
+        const rooms = this.safeGet(this.data, 'rooms');
+        if (!rooms || !Array.isArray(rooms) || rooms.length === 0) return;
+
+        const sortedRooms = [...rooms].sort((a, b) => (a.displayOrder || 0) - (b.displayOrder || 0));
+        const menuItems = this.getRoomMenuItems(sortedRooms);
+
+        const activeGroup = menuItems.find(item =>
+            item.rooms.length > 1 && item.rooms.some(r => String(r.id) === String(room.id))
+        );
+        if (!activeGroup) return;
+
+        activeGroup.rooms.forEach(groupRoom => {
+            const name = this.getRoomName(groupRoom);
+            if (!String(name).trim()) return;
+            const a = document.createElement('a');
+            a.className = 'room-group-tab';
+            if (String(groupRoom.id) === String(room.id)) a.classList.add('is-active');
+            a.textContent = name;
+            a.href = `./room.html?id=${groupRoom.id}`;
+            container.appendChild(a);
+        });
+
+        if (container.children.length > 1) {
+            container.style.display = '';
+        } else {
+            container.innerHTML = '';
+        }
     }
 
     // ============================================================================
@@ -223,6 +274,40 @@ class RoomMapper extends BaseDataMapper {
                 if (guideSection) guideSection.style.display = 'none';
             }
         }
+    }
+
+    // ============================================================================
+    // 🗺️ FLOORPLAN
+    // ============================================================================
+
+    /**
+     * 객실 평면도 매핑
+     * roomtype_floorplan 이미지 → [data-room-floorplan-image]
+     * ⚠️ 제목·설명 자리가 없다. 도면 이미지 한 장이 전부다.
+     * ⚠️ 이미지가 없거나 로드에 실패하면 [data-room-floorplan-section]을 통째로 숨긴다.
+     */
+    mapFloorplan() {
+        const room = this.getCurrentRoom();
+        if (!room) return;
+
+        const sections = this.safeSelectAll('[data-room-floorplan-section]');
+        if (!sections.length) return;
+
+        const image = this.getRoomFloorplanImage(room);
+        const url = image?.url || '';
+
+        sections.forEach(section => {
+            section.style.display = url ? '' : 'none';
+        });
+        if (!url) return;
+
+        this.safeSelectAll('[data-room-floorplan-image]').forEach(img => {
+            img.alt = '객실 평면도';
+            img.onerror = () => {
+                sections.forEach(section => { section.style.display = 'none'; });
+            };
+            img.src = url;
+        });
     }
 
     // ============================================================================

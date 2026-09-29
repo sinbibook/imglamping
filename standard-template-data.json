@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.72.0",
-    "generatedAt": "2026-09-29T07:44:09.539453243Z",
+    "version": "1.73.0",
+    "generatedAt": "2026-09-29T07:45:18.368480200Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -29,6 +29,9 @@
     "domain": "imglamping.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/2032919323",
     "ybsId": "78916",
+    "tripPropertyId": "9960",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -449,10 +452,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "9960",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
