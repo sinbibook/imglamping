@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.69.0",
-    "generatedAt": "2026-09-29T07:13:07.033243597Z",
+    "version": "1.70.0",
+    "generatedAt": "2026-09-29T07:19:31.245144313Z",
     "templateType": "fullpage_mood",
     "propertyId": "3b28f5bd-d461-4292-b1a4-91356653875b",
     "homepageId": "c9c89b4b-8185-4005-8847-beba822c63eb"
@@ -1690,8 +1690,8 @@
                 "title": "IM Glamping",
                 "images": [
                   {
-                    "id": "54e00b6e-4128-4297-9bf2-e807a1049dff",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_closing/1765420169710-edmq24wlxd.jpeg",
+                    "id": "01a0ec08-66ba-7a32-9191-847171611081",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_closing/1790666367991-vgz3btl9ns.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1706,24 +1706,24 @@
                 "title": "강화도의 자연 속에서 즐기는 프리미엄 감성 글램핑, 아이엠 글램핑 깔끔하고 쾌적한 객실로 캠핑의 낭만과 편안한 휴식을 동시에 누려보세요. 호텔처럼 세심하게 관리된 공간에서 누구나 부담 없이 머물 수 있습니다. 저녁에는 따뜻한 불멍과 함께 강화도의 여유로운 밤을 만끽해보세요. 자연과 감성, 휴식이 어우러진 특별한 글램핑 공간입니다. ✨🌿🔥",
                 "images": [
                   {
-                    "id": "01a0ec02-71ed-7995-be50-98c5ea17f309",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790665977234-tgsbn43xhx.jpg",
+                    "id": "01a0ec08-66c1-7b6a-8b33-82f8c7dc2e79",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790666367886-pny02yejqr.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a0ec02-7053-7eb1-b014-a3963c68fb7f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790665977333-3tb65t0kmo.jpg",
+                    "id": "01a0ec08-67e6-70ca-bd6c-a57b055584e3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790666367935-064pd6gdsi.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a0ec02-71f2-72b9-bfdb-abcc7f48adf4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790665977383-rjaj9ovg27.jpg",
+                    "id": "01a0ec08-65dd-7ecd-b6aa-914d6ca7130c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_essence/1790666367889-ucjhszc97e.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
@@ -1738,74 +1738,66 @@
                 "title": "Gallery",
                 "images": [
                   {
-                    "id": "7f5d6f22-0243-4c84-b277-b453ad74f3ef",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-9ah9xazjw4k.jpeg",
+                    "id": "01a0ec08-67a3-77b5-bde5-04a35e151496",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666367894-8vjh56vqtf.jpg",
                     "sortOrder": 0,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "91aff12d-3bc7-45fc-bb81-deb1e0c5970b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-fpilpl6ub2.jpeg",
+                    "id": "01a0ec08-65fd-7205-95dc-d10fde862466",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666367891-qvuxnbuoo1.jpg",
                     "sortOrder": 1,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "ba5e1d2a-e09b-4b92-9402-4d1c926c7b17",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-208ty5yxx4lh.jpeg",
+                    "id": "01a0ec08-66b8-7ea4-93a8-776ba53de2a5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666368084-qp5i5bb6sc.jpg",
                     "sortOrder": 2,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "ccdac48c-03f4-4342-80e0-a507aeb2aa4e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272897-9maqf8i2hlv.jpg",
+                    "id": "01a0ec08-6770-7ae1-9bdc-81b2780c5483",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666368088-grsrffs74f.jpg",
                     "sortOrder": 3,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "2914e907-5127-4257-b379-487b93debf23",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272896-ut0peq24cz.jpeg",
+                    "id": "01a0ec08-66bb-77fa-b0f9-5222e7fca7b9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666367986-six3honhd5.jpg",
                     "sortOrder": 4,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "695cd32c-364d-4ab9-bb1f-4e1fa0c3dc9d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1765327272896-tas8ilwulpq.jpeg",
+                    "id": "01a0ec08-671a-7a49-ac55-3cf5a3f6f593",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666367989-tvk1x4mwnh.jpg",
                     "sortOrder": 5,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "e531a3b7-39f3-4b3c-ad7b-dde29d25faae",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-azqh73oji7i.jpeg",
+                    "id": "01a0ec08-6654-76fe-bde8-19bda790d71a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666367934-d1uc2ykeqm.jpg",
                     "sortOrder": 6,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "7698f741-82a7-4bd0-a55c-a2b736048029",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-l876t4z2rhl.jpg",
+                    "id": "01a0ec08-66b2-7b99-bd3a-6bcc05b60321",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1790666368036-hbttcsj72t.jpg",
                     "sortOrder": 7,
-                    "description": "IM Glamping",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "d12042f2-b551-4030-85f3-5e1e2d21f601",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c9c89b4b-8185-4005-8847-beba822c63eb/index_gallery/1766040157534-637xmpqs91p.jpeg",
-                    "sortOrder": 8,
-                    "description": "IM Glamping",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
