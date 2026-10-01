@@ -34,6 +34,24 @@ img {
 }
 
 /* ===========================
+   0. VIDEO (히어로 위 영상 영역 — 영상 없으면 JS가 display:none)
+   =========================== */
+.video-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-color: #000;
+  line-height: 0;
+}
+
+.video-section-video {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* ===========================
    1. HERO
    =========================== */
 .hero {
